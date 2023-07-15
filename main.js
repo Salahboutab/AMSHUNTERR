@@ -1,0 +1,6 @@
+ function clicke() {
+  window.location.href = "https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Ffile%2FAMS%2520HUNTER%2520v1.0.3.apk%3Ftoken%3DAWxVIxnIIwG1ebYlttpgdsqchcWr5slHMaQaKGcierRy_v7kc2z81194sbO1vPjBPABNLl6AHLN5vkwh7OL8U5ijT7ekw9KXzdeyF2JxBgFR0YYd3zBi6jMtDPIrpUaep-onwyIqyq4g7Qocwkl_UJL_VzvTEUC9w3PVn1RB6BIqNWFHjjs1TsJkXJ5ete2Gw0B7vix85TTTOjOUJJ4eViLxq7jnNhrhvwRzRvFFnflcr9ezBLweIfDXQJPPp5hcx4tuM5bCadtRkheLKQ4PYqJXpGl_xKZStG74E_QdMRAnu3e45bAjjTJxxGjMRGNJ29w&h=AT2Lz19eXEyyinB4g3q4Yzsubmyb-23rGO5qDSmGxz5ftBEzalT2Z_bSszo4BpWqTXUeV7vpn5GduEExaUFG35g6FMK2ESAOBUkGvp8cAPtGd9-wEJn8fC2ujzOY2Est9gG0WQ0jH1sjRQ";
+ 
+}
+
+
